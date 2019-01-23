@@ -1,0 +1,45 @@
+<mat-toolbar  color="primary">
+  <mat-toolbar-row>
+    <span>Jminutes COIN</span>
+  </mat-toolbar-row>
+  </mat-toolbar>
+<main>
+  <!-- <mat-card *ngFor="let item of items"> -->
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>Title1</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        PWAデモ
+    </mat-card-content>
+    <mat-card-actions>
+      <a  mat-raised-button  routerLink="/detail"  color="primary">More</a>
+    </mat-card-actions>
+    <router-outlet> </router-outlet>
+  </mat-card>
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>Title2</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        PWAデモ
+    </mat-card-content>
+    <mat-card-actions>
+      <a  mat-raised-button  href="https://play.google.com/store/apps/details?id=com.jminutes.app.coin&hl=ja"  color="primary">More</a>
+    </mat-card-actions>
+  </mat-card>
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>Title3</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        PWAデモ
+    </mat-card-content>
+    <mat-card-actions>
+      <a  mat-raised-button  href="https://play.google.com/store/apps/details?id=com.jminutes.app.coin&hl=ja"  color="primary">More</a>
+    </mat-card-actions>
+  </mat-card>
+  <mat-card-actions>
+  <button mat-raised-button (click)='subscribeToNotifications()'>Subscribe</button>
+  </mat-card-actions>
+</main>
