@@ -1,0 +1,97 @@
+{
+  "configVersion": 1,
+  "index": "https://hhhhhhhiro.github.io/pwaDemo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://hhhhhhhiro.github.io/pwaDemo/favicon.ico",
+        "https://hhhhhhhiro.github.io/pwaDemo/index.html",
+        "https://hhhhhhhiro.github.io/pwaDemo/main.0b5e60446c07fcff8eb1.js",
+        "https://hhhhhhhiro.github.io/pwaDemo/polyfills.f6ae3e8b63939c618130.js",
+        "https://hhhhhhhiro.github.io/pwaDemo/runtime.ec2944dd8b20ec099bf3.js",
+        "https://hhhhhhhiro.github.io/pwaDemo/styles.66c07c2778aa3030f395.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/coin.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-128x128.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-144x144.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-152x152.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-192x192.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-384x384.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-512x512.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-72x72.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-96x96.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/orange-128.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/photo.jpg",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/pic.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/strawberry-128.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/watermelon-128.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-1125x2436.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-1242x2208.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-1536x2048.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-1668x2224.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-2048x2732.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-640x1136.png",
+        "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-750x1334.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/coin.png": "df8c138360eb8344b7a17716220b79d5d80fcee5",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-128x128.png": "d71219100a8f09300171f130a9bcb232d0fbf9d2",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-144x144.png": "4f79253d7c9686ffbd7dc0b90da0e8e8fc45b8bd",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-152x152.png": "552a995fec684a231961abf7a41b5608e24fbdc1",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-192x192.png": "deffcdfde65ac267a4b10de501ccd7a533e92cf8",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-384x384.png": "1d9960c5409af9a6c0b0515d88a6c6046a1f216f",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-512x512.png": "e89080aeab1ca8aa7dce6fd20416294cfe0b9cdf",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-72x72.png": "c6c62ec1bbae6bb1fe9ac41053c223b589431853",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/icon-96x96.png": "33690dbd2ab133b62265f4e1972217b93c0531a3",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/orange-128.png": "237a9fd0c6812a195c860f0b20c22959cb3793c9",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/photo.jpg": "311c110df252d02a099ce1fed6ea40a2d76eb71c",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/pic.png": "5f08ff70d805e5661189fd5de254f901af2cc80f",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/strawberry-128.png": "dbc73d0defd871d2b197373fa0079af4b64f93d2",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/icons/watermelon-128.png": "b323021dc00227a6e76c2752d420def74680f952",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-1125x2436.png": "e55d0a62a7e9cb7e842226f12ef123865ab1c9d5",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-1242x2208.png": "8c1458e64f5172d9e3c22c8a306ca42421120a94",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-1536x2048.png": "8acb37cc8444a4f9f936dff97c9dfe60f3dbbd73",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-1668x2224.png": "daff0c027fbc7b08e3618e1840197955d34b0024",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-2048x2732.png": "a8355b9ad750de878b3df8a12df9fd8b086a0410",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-640x1136.png": "520970ee3dc2286ef7fa85df42a4c6aa2a73573d",
+    "https://hhhhhhhiro.github.io/pwaDemo/assets/images/startup/launch-750x1334.png": "f9c2d6226778f7f04dd82cc8d210be7af85245cf",
+    "https://hhhhhhhiro.github.io/pwaDemo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://hhhhhhhiro.github.io/pwaDemo/index.html": "c55c239d173b181983ba597310aaa84d26e6fc35",
+    "https://hhhhhhhiro.github.io/pwaDemo/main.0b5e60446c07fcff8eb1.js": "698f82a7bc10b629b0ddd471ba2818b9178f4c72",
+    "https://hhhhhhhiro.github.io/pwaDemo/polyfills.f6ae3e8b63939c618130.js": "ef2035f0504b4f77eac510c33595c81a5d09e33f",
+    "https://hhhhhhhiro.github.io/pwaDemo/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://hhhhhhhiro.github.io/pwaDemo/styles.66c07c2778aa3030f395.css": "8e5f6cc6fe20f982aa11b6c8ef8663ad9bb277a4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
